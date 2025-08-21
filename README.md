@@ -1,6 +1,10 @@
 # Continuous Delivery with Jenkins in Kubernetes Engine
 
-Dokumen ini merangkum proses otomatisasi build dan deployment menggunakan **Jenkins** di atas **Google Kubernetes Engine (GKE)**, dengan pemicu sederhana berupa perintah:
+Dokumen ini merangkum proses otomatisasi build dan deployment menggunakan **Jenkins** di atas **Google Kubernetes Engine (GKE)**, dengan pemicu sederhana berupa perintah, Ini hanya rangkuman singkat dan repository ini kodenya dari event GCP (Ini saya gunakan untuk pembelajaran saya dan mengasah skill saya di bidang DevOps) :
+
+Untuk Penjelasan lebih lengkap cek di link berikut 
+[![Logo](https://drive.google.com/file/d/1GpXPpqa5Qm01M4xsushwGLBcaB9sd6EZ/view?usp=sharing)](https://example.com)
+
 
 ```bash
 git push origin <branch>
