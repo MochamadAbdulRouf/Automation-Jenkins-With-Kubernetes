@@ -3,7 +3,7 @@
 Dokumen ini merangkum proses otomatisasi build dan deployment menggunakan **Jenkins** di atas **Google Kubernetes Engine (GKE)**, dengan pemicu sederhana berupa perintah, Ini hanya rangkuman singkat dan repository ini kodenya dari event GCP (Ini saya gunakan untuk pembelajaran saya dan mengasah skill saya di bidang DevOps) :
 
 Untuk Penjelasan lebih lengkap cek di link berikut 
-[![Logo]](https://drive.google.com/file/d/1kgADA5Mw0RpyZ9z5FG-2ZnYEXzN4st5-/view?usp=sharing)
+[![Klik link drive ini]](https://drive.google.com/file/d/1kgADA5Mw0RpyZ9z5FG-2ZnYEXzN4st5-/view?usp=sharing)
 
 
 ```bash
