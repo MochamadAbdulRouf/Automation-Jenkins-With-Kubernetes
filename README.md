@@ -9,7 +9,7 @@ Untuk Penjelasan lebih lengkap cek di link berikut
 ![Topology Application](https://github.com/MochamadAbdulRouf/Automation-Jenkins-With-Kubernetes/blob/master/topologi%20jenkins%20kubernetes.png)
 
 # Topology Application 
-![Topology Application](https://github.com/MochamadAbdulRouf/Automation-Jenkins-With-Kubernetes/blob/master/topologi%20aplikasi%20jenkins%20kubernetes.png)
+![Topology Application](https://github.com/MochamadAbdulRouf/Automation-Jenkins-With-Kubernetes/blob/master/topology%20aplikasi%20jenkins%20kubernetes.png)
 
 
 # Ringkasan riset
